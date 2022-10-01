@@ -1,0 +1,23 @@
+
+header {
+    display: flex;
+}
+
+.logo,
+.nav-social {
+    width: 33%;
+}
+
+.logo img {
+    height: ;
+    width: 64px;
+}
+
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    
+}
+
+.navbar a {}
